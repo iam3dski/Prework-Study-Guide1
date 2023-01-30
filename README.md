@@ -2,7 +2,11 @@
 
 ## Description
 
-This Prework Study Guide was created for boot camp students who were going through the Prework. It contains notes on HTML, CSS, Git, and JavaScript. It was created to help establish a baseline for my foundation in coding. This project was built to help me understand how to start coding and the steps involved in the process.
+Motivation for developing this project was to get a better understanding of the basics for starting out my coding journey. 
+I built this as way to show myself that I can learn coding and use the tools given to me to develop the knowledge to move forwards. 
+This helps me develope a template and guide for starting my coding journey from nothing. 
+I learned I have a lot longer to go in developing tools and understanding.
+
 
 ## Installation
 
